@@ -2,9 +2,7 @@
 #include <vector>
 #include <string>
 #include <cstdlib>
-/*#include <thread>
-#include <chrono>
-#include <windows.h>*/
+
 
 using namespace std;
 
